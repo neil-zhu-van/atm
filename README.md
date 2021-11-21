@@ -36,6 +36,6 @@ $ java -jar target/atm-1.0-SNAPSHOT.jar
 ...
 ```
 
-### Limits
+### Things to improve
 - Application won't run inside IDE like Intellij or Eclipse, because it depends on System.console() which IDEs don't support.
 - How to simulate user input from command line? So we can automate tests.
